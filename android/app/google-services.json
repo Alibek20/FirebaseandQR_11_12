@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289982922640",
+    "project_id": "fireapp-d33ab",
+    "storage_bucket": "fireapp-d33ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289982922640:android:53775e2040cdacfabcfd15",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD00tWsiAtfzZdtqANUoJc4kGbMk_kXf08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
